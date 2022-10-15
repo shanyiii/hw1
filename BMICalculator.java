@@ -4,7 +4,11 @@ import java.util.Scanner;
 public class BMICalculator{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-        double height, weight, bmi, hi;
+<<<<<<< HEAD
+        double height, weight, bmi, hello;
+=======
+        double height, weight, bmi, hello;
+>>>>>>> ayo
         System.out.println("Welcome to the BMI (Body Mass Index) calculator");
         
         System.out.print("Please enter your weight (kilograms): ");
